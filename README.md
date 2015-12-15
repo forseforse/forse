@@ -1,4 +1,5 @@
-# forse, a python/flask clone of [forse.herokuapp.com](http://forse.herokuapp.com)
+# forse
+A python/flask clone of [forse.herokuapp.com](http://forse.herokuapp.com)
 
 ## Run
 
